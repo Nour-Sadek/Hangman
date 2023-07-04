@@ -20,7 +20,7 @@ re-play, they can check their score (number of lost and won games)
 To learn more about this project, please visit 
 [HyperSkill Website - Hangman](https://hyperskill.org/projects/69).
 
-This project's difficulty has been labelled as __Challenging__ where this is how 
+This project's difficulty has been labelled as __Easy__ where this is how 
 HyperSkill describes each of its four available difficulty levels:
 
 - __Easy Projects__ - if you're just starting
